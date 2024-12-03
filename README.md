@@ -18,7 +18,7 @@ The purpose of this project to analyse the sales trends between the Diwali 2023 
 - Relationship was establish between tables to create a logical data model.
 - Measure are created by using the DAX function
 
-4. **Visualization**:
+4 **Visualization**:
 - Designed a interactive dashboard with visual such as line chart, bar chart , Card visual , waterfal visual etc
 - Fosused on user friendly design and meaningful insight
 
