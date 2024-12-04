@@ -25,4 +25,7 @@ The purpose of this project to analyse the sales trends between the Diwali 2023 
 ## Tools used 
 - Power BI desktop , MySQL
 
+## Live Power Bi dashboard 
+you can view the live power bi dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZWNmNzU3Y2MtZmI1Ny00MTg0LWJlZTktZmNmOTgwYTViZGFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
